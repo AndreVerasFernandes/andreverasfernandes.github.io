@@ -304,7 +304,7 @@ onMounted(() => {
             </a>
           </div>
         </div>
-        <div class="avatar">AV</div>
+      
       </section>
 
       <section id="about" class="block" data-reveal>
