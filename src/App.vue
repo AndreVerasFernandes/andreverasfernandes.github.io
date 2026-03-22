@@ -419,6 +419,7 @@ onMounted(() => {
       <a href="#work">{{ t.nav.work }}</a>
       <a href="#education">{{ t.educationTitle }}</a>
       <a href="#projects">{{ t.nav.projects }}</a>
+      <a href="#skills">{{ t.skillsTitle }}</a>
       <a href="#contact">{{ t.nav.contact }}</a>
     </nav>
   </div>
