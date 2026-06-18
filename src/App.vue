@@ -93,7 +93,7 @@ const i18n = {
         company: 'Tribunal de Contas da União',
         role: 'Estagiário',
         employerLine: 'Tribunal de Contas da União · Estágio',
-        period: 'jan de 2025 - o momento · 1 ano 3 meses',
+        period: 'jan de 2025 - o momento · 1 ano 5 meses',
         location: 'Remoto',
         bullets: [
           'Responsável pelo desenvolvimento e manutenção de aplicações Web, voltadas para auxiliar os procedimentos do Tribunal.',
@@ -133,6 +133,24 @@ const i18n = {
         desc: 'Projeto acadêmico focado em processamento e análise de dados em ambiente de notebooks.',
         stack: ['Python', 'Jupyter Notebook'],
         link: 'https://github.com/AndreVerasFernandes/Tomografo'
+      },
+      {
+        name: 'Nubank-DataScience-Challenge',
+        desc: 'Desafio de Ciência de Dados com foco em análise exploratória, modelagem preditiva, tratamento de dados e geração de insights estratégicos a partir de datasets financeiros.',
+        stack: ['Python', 'Data Science', 'Machine Learning', 'Pandas'],
+        link: 'https://github.com/AndreVerasFernandes/Nubank-DataScience-Challenge'
+      },
+      {
+        name: 'Compiler',
+        desc: 'Projeto de compilador desenvolvido para estudar os principais estágios da construção de linguagens, incluindo análise léxica, análise sintática, validação semântica, geração de código intermediário e otimização.',
+        stack: ['Compiler Design', 'Python', 'Parsing', 'Lexical Analysis', 'Syntax Analysis'],
+        link: 'https://github.com/AndreVerasFernandes/Compiler'
+      },
+      {
+        name: 'Interpreter',
+        desc: 'Projeto de interpretador voltado para execução e avaliação de código em tempo de execução, explorando análise sintática, construção de árvores de expressão, gerenciamento de escopo e execução de instruções.',
+        stack: ['Interpreter Design', 'Python', 'Parsing', 'Abstract Syntax Tree', 'Runtime Execution'],
+        link: 'https://github.com/AndreVerasFernandes/Interpreter'
       }
     ]
   },
@@ -177,7 +195,7 @@ const i18n = {
         company: 'Federal Court of Accounts (TCU)',
         role: 'Intern',
         employerLine: 'Federal Court of Accounts · Internship',
-        period: 'Jan 2025 - Present · 1 year 3 months',
+        period: 'Jan 2025 - Present · 1 year 5 months',
         location: 'Remote',
         bullets: [
           'Responsible for developing and maintaining Web applications aimed at supporting Court procedures.',
@@ -217,6 +235,24 @@ const i18n = {
         desc: 'Academic project focused on data processing and analysis in notebook-based workflows.',
         stack: ['Python', 'Jupyter Notebook'],
         link: 'https://github.com/AndreVerasFernandes/Tomografo'
+      },
+      {
+        name: 'Nubank-DataScience-Challenge',
+        desc: 'Data Science challenge focused on exploratory analysis, predictive modeling, data preprocessing, and business-driven insights using real-world financial datasets.',
+        stack: ['Python', 'Data Science', 'Machine Learning', 'Pandas'],
+        link: 'https://github.com/AndreVerasFernandes/Nubank-DataScience-Challenge'
+      },
+      {
+        name: 'Compiler',
+        desc: 'Compiler project focused on programming language implementation, covering lexical analysis, syntax parsing, semantic validation, intermediate code generation, and optimization techniques.',
+        stack: ['Compiler Design', 'Python', 'Parsing', 'Lexical Analysis', 'Syntax Analysis'],
+        link: 'https://github.com/AndreVerasFernandes/Compiler'
+      },
+      {
+        name: 'Interpreter',
+        desc: 'Interpreter project focused on runtime code execution, exploring syntax parsing, abstract syntax tree construction, scope management, expression evaluation, and instruction execution.',
+        stack: ['Interpreter Design', 'Python', 'Parsing', 'Abstract Syntax Tree', 'Runtime Execution'],
+        link: 'https://github.com/AndreVerasFernandes/Interpreter'
       }
     ]
   }
