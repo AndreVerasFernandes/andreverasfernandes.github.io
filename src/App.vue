@@ -93,7 +93,7 @@ const i18n = {
         company: 'Tribunal de Contas da União',
         role: 'Estagiário',
         employerLine: 'Tribunal de Contas da União · Estágio',
-        period: 'jan de 2025 - o momento · 1 ano 5 meses',
+        period: 'jan de 2025 - jul de 2026 · 1 ano 6 meses',
         location: 'Remoto',
         bullets: [
           'Responsável pelo desenvolvimento e manutenção de aplicações Web, voltadas para auxiliar os procedimentos do Tribunal.',
@@ -195,7 +195,7 @@ const i18n = {
         company: 'Federal Court of Accounts (TCU)',
         role: 'Intern',
         employerLine: 'Federal Court of Accounts · Internship',
-        period: 'Jan 2025 - Present · 1 year 5 months',
+        period: 'Jan 2025 - Jul 2026 · 1 year 6 months',
         location: 'Remote',
         bullets: [
           'Responsible for developing and maintaining Web applications aimed at supporting Court procedures.',
