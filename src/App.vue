@@ -56,7 +56,7 @@ const i18n = {
     utilityTheme: 'Tema',
     utilityLang: 'Idioma',
     heroEyebrow: 'Engenheiro de Software',
-    heroTitle: 'Ola, eu sou Andre Veras Fernandes',
+    heroTitle: 'Olá, eu sou Andre Veras Fernandes',
     heroLead:
       'Desenvolvo plataformas web escalaveis com foco em performance, qualidade e evolucao continua. Trabalho entre backend, frontend e dados para transformar requisitos complexos em produtos confiaveis.',
     heroCta: 'Ver projetos',
@@ -90,10 +90,22 @@ const i18n = {
     },
     work: [
       {
+        company: 'Kroll',
+        role: 'Analista de dados',
+        employerLine: 'Kroll · CLT',
+        period: 'jul de 2026 - o momento ·',
+        location: 'Hibrido · São Paulo',
+        bullets: [
+          'Apoio à análise de dados aplicada a projetos de avaliação e gestão de ativos imobilizados.',
+          'Desenvolvimento e suporte a ferramentas para avaliação patrimonial e gestão de ativos.',
+          'Apoio em processos de inventário, conciliação e valuation de ativos fixos.' 
+        ]
+      },
+      {
         company: 'Tribunal de Contas da União',
         role: 'Estagiário',
         employerLine: 'Tribunal de Contas da União · Estágio',
-        period: 'jan de 2025 - jul de 2026 · 1 ano 6 meses',
+        period: 'jan de 2025 - jul de 2026 · 1 ano 7 meses',
         location: 'Remoto',
         bullets: [
           'Responsável pelo desenvolvimento e manutenção de aplicações Web, voltadas para auxiliar os procedimentos do Tribunal.',
@@ -191,6 +203,18 @@ const i18n = {
       Tools: 'Tools'
     },
     work: [
+      {
+        company: 'Kroll',
+        role: 'Data Analyst',
+        employerLine: 'Kroll · Data Analyst',
+        period: 'jul 2026 - Present ·',
+        location: 'Hybrid · São Paulo',
+        bullets: [
+          'Support data analysis initiatives for fixed asset valuation and asset management projects',
+          'Assist in the development of analytical tools for asset valuation and portfolio management.',
+          'Support fixed asset inventory, reconciliation, and appraisal processes.'
+        ]
+      },
       {
         company: 'Federal Court of Accounts (TCU)',
         role: 'Intern',
